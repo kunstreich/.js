@@ -1,5 +1,5 @@
 // for a prettier google+
 
 $("body").css({
-  "font-family": "Helvetica Neue",
+  "font-family": "'helvetica neue',helvetica,sans-serif",
 });
