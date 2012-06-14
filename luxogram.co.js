@@ -1,0 +1,3 @@
+$("#beta").css({
+  "display": "none",
+});
